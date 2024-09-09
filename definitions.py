@@ -46,4 +46,18 @@ def dastur():
 
 #git add - fayl(lar)ni kuzatuv/controlga olish
 
-# git commit - qayd etish / qayd ostga olish
+# git commit - qayd etish / qayd ostga olis"""
+
+# get remote add origin https://github.com/jalilovarobiya/4-oy-7-dars-uyga-vazifa-8-topshiriq.git
+# origin nomli cloud repo qo'shdik 
+# uning linki https://github.com/jalilovarobiya/4-oy-7-dars-uyga-vazifa-8-topshiriq.git 
+
+# git branch
+
+# git status
+
+# git remote -v
+
+# git commit -m "qayd xabari/izohi"
+
+# git add .
